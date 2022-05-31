@@ -1,0 +1,72 @@
+<div class="product-description">
+	<p class="p-3 description-heading">
+		Wired Keyboard
+	</p>
+	<div class="description-table">
+		<div class="table-responsive">          
+		  <table class="table table-bordered">
+			<tbody>
+              <tr>
+				<td class="description-heading">Model</td>
+				<td>WKS013WN</td>
+			  </tr><tr>
+				<td class="description-heading">Type</td>
+				<td>Standard wired keyboard</td>
+			  </tr>
+              <tr>
+				<td class="description-heading">Dimension</td>
+				<td>(L) 435mm x (W) 129mm x (H) 22.6mm</td>
+			  </tr>
+			  <tr>
+				<td class="description-heading">Weight</td>
+				<td> 345±5 g</td>
+			  </tr>
+			  <tr>
+				<td class="description-heading">Character</td>
+				<td>Silk screen</td>
+			  </tr>
+			  <tr>
+				<td class="description-heading">Cable</td>
+				<td>1.5m PVC Cable</td>
+			  </tr>
+              <tr>
+				<td class="description-heading">Keys</td>
+				<td>104</td>
+			  </tr>
+               <tr>
+				<td class="description-heading">Operating Voltage</td>
+				<td>5V+/-0.5V</td>
+			  </tr>
+              
+              
+             
+              <tr>
+				<td class="description-heading">Working current</td>
+				<td>＜100mA MAX</td>
+			  </tr>
+			</tbody>
+		  </table>
+		</div>
+		
+	<div class="mt-3">
+		<p class="description-heading p-3">Warranty Information</p>
+		<div class="px-3 warranty-style">
+        <p class="text-danger">Replacement Warranty: 6 Months</p><p class="text-danger">   
+		</p><p>Warranty Will Be Voided For :</p>
+		<p>- Physical Damage</p>
+         <p>- Burnt</p>
+		<p class="text-danger">Note: User/Customer Must Preserve The Barcode Serial</p><p class="text-danger">
+		  <!--<br></p>-->
+		</p></div>
+	</div>
+	<!--<button type="button" class="btn btn-outline-dark my-3 float-right">Buy Now</button>-->
+</div>
+
+
+  <style>
+	.description-heading{background:#F3F4F4;}
+    .warranty-style{line-height:15px;}
+	.table td, .table th {
+    vertical-align: middle !important;
+}
+  </style></div>
